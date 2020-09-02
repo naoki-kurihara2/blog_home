@@ -1,6 +1,6 @@
 baseurl = "https://naoki-kurihara3.com/"
 publishDir="docs"
-title = "Yusuke Ishimi"
+title = "Naoki kurihara"
 
 theme = "coder-portfolio"
 
