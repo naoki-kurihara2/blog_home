@@ -1,4 +1,4 @@
-baseurl = "https://naoki-kurihara3.com/"
+bseurl = "https://naoki-kurihara3.com/"
 publishDir="docs"
 title = "Naoki kurihara"
 
@@ -16,8 +16,8 @@ pygmentsUseClasses = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Yusuke Ishimi"
-    description = "Yusuke Ishimi's personal website"
+    author = "Naoki Kurihara"
+    description = "Naoki Kurihara's personal website"
     keywords = "blog,developer,personal"
     info = "WEB AND APPS ENGINEER"
     avatarurl = "images/avatar.jpg"
